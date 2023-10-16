@@ -1,5 +1,5 @@
 * {
-    margin: 1;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins',sans-serif;
@@ -9,7 +9,7 @@ body {
     color: #ededed;
 }
 .logo{
-    font-size: 25px;
+    font-size: 43px;
     color: #ededed;
     text-decoration: none;
     font-weight: 600;
@@ -23,19 +23,44 @@ body {
     margin-left: 35px;
     transition: .3s;
 }
-
-.navbar a:hover, 
-.navbar a.active {
-    color: #00abf0;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
 }
-.btn-box a::before {
-    content: '';
-    position: absolute ;
+.heder {
+    position: fixed;
     top: 0;
     left: 0;
-    width: 0%;
-    height: 100%;
-    background: #081b29;
-    z-index: -1; 
-    transform: .5s;
+    width: 100%;
+    padding: 20px 10%;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
 }
+.home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10% ;
+}
+
+.home-content {
+    max-width: 600px;
+}
+
+.home-content h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.home-content h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #00abf0;
+}
+
