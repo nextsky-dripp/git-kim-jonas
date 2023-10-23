@@ -49,21 +49,25 @@ body {
 }
 
 .home-content {
-    max-width: 600px;
+    max-width: 900px;
 }
 
 .home-content h1 {
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.2;
-}
-
-.home-content h3 {
-    font-size: 36px;
-    font-weight: 700;
+    line-height: 2.2;
     color: #00abf0;
 }
+
 .navbar a:hover, 
 .navbar a.active {
     color: #00abf0;
 }
+
+p {
+    height: 10.4cm;
+font-family: f;
+font-weight: 700;
+font-size: 19px;
+}
+
