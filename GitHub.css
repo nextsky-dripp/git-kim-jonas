@@ -48,13 +48,20 @@ body {
     padding: 0 10% ;
     line-height: 2;
 }
-.home-content h1 {
-    font-size: 35px;
-    font-weight: 700;
-    line-height: 5.2;
-    color: blue;
-}
+
 .navbar a:hover, 
 .navbar a.active {
     color: #00abf0;
+}
+
+p {
+font-size: 20px;
+line-height: 1.4;
+line-break: 2.22;
+font-family: f;
+
+
+
+
+
 }
