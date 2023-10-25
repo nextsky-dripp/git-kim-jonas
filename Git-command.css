@@ -52,22 +52,15 @@ body {
     max-width: 900px;
 }
 
-.home-content h1 {
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 2.2;
-    color: #00abf0;
-}
-
 .navbar a:hover, 
 .navbar a.active {
     color: #00abf0;
 }
 
 p {
-    height: 10.4cm;
+    height: 0.6cm;
 font-family: f;
-font-weight: 700;
-font-size: 19px;
+font-weight: 600;
+font-size: 20px;
 }
 

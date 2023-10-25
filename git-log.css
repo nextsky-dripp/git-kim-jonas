@@ -37,7 +37,7 @@ body {
     z-index: 100;
 }
 .home{
-    height: 70vh;
+    height: 50vh;
     display: flex;
     align-items: center;
     padding: 0 10% ;
@@ -60,11 +60,3 @@ body {
     color: #00abf0;
 }
 
-p{
-height: 1cm;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-
-
-}
