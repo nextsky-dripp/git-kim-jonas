@@ -13,6 +13,7 @@ body {
     color: #ededed;
     text-decoration: none;
     font-weight: 600;
+        
     
 }
 .navbar a {
@@ -42,25 +43,24 @@ body {
     z-index: 100;
 }
 .home{
-    height: 100vh;
+    height: 130vh;
     display: flex;
     align-items: center;
     padding: 0 10% ;
+    line-height: 2;
 }
 
-.home-content {
-    max-width: 900px;
-}
 
 .navbar a:hover, 
 .navbar a.active {
     color: #00abf0;
 }
-
 p {
-    height: 0.6cm;
-font-family: f;
-font-weight: 600;
-font-size: 20px;
+ height: 1cm;
+font-family: 1;
+font-weight: 700;
+font-size: 19px;
 }
+
+
 

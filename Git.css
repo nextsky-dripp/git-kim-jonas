@@ -55,16 +55,11 @@ body {
     color: #00abf0;
 }
 p {
-    height: 1.4cm;
+ height: 1cm;
 font-family: 1;
 font-weight: 700;
 font-size: 19px;
 }
 
-p {
-    height: 1cm;
-font-family: f;
-font-weight: 700;
-font-size: 19px;
-}
+
 
